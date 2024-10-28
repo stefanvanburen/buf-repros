@@ -1,0 +1,6 @@
+// Leading comment.
+syntax = "proto3";
+
+package TODO;
+
+message Test {}
